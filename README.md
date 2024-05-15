@@ -1,2 +1,3 @@
 # SF-Pro
- SF Pro font for apple Developer Obtained from developer.apple.com
+ SF Pro font for apple Developer 
+ Obtained from https://developer.apple.com/fonts/
